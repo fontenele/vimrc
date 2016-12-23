@@ -1,6 +1,6 @@
 " Enable syntax highlighting
 syntax on
-colorscheme desert
+colorscheme zellner
 set background=dark
 " Enable line numbers
 set nu
