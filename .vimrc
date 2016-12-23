@@ -47,7 +47,7 @@ set shiftwidth=4
 set tabstop=4
 set ai "Auto indent
 set si "Smart indent
-set wrap "Wrap lines
+set nowrap "No wrap lines
 " Map <Space> to / (search) and Ctrl-<Space> to ? (backwards search)
 map <space> /
 map <c-space> ?
